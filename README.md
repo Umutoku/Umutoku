@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Big Data <br>🌱 I'm currently learning more algorithm <br>⚡ Fun fact: I like to write poetry
+🔭 I’m currently working on Big Data and Go <br>🌱 I'm currently learning more algorithm <br>⚡ Fun fact: I like to write poetry
 
 
 ## 🌐 Socials:
